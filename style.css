@@ -308,7 +308,7 @@ header nav ul li a:hover {
     color: #6c757d;
 }
 
-/* Testimonials */
+
 .testimonials-section {
     padding: 80px 0;
     background-color: #f8f9fa;
@@ -546,4 +546,8 @@ footer {
   .contact-container {
     flex-direction: column;
   }
+  nav ul {
+    flex-direction: column;
+  }
 }
+
